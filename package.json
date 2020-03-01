@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "bookly",
+=======
+  "name": "Bookly",
+>>>>>>> 77964632888dcb1c3cb65ec07fe19a75c4517769
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
